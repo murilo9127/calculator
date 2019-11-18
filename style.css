@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 14px;
+  font: Verdana;
+}
+
+body  footer{
+  text-align: center;
+  margin-top: 31%;
+}
+#campo{
+  margin:20px auto;
+}
+.container {
+    max-width: 208px!important;
+    margin: 10px auto;
+    border: 1px solid black;
+    text-align: center;
+}
+#btnResultado{
+  width: 100%;
+}
+#btnSomar,#btnSubtrair, #btnMultiplicar{
+    padding: 8px;
+    margin: 3px 0px 2px 23px;
+    width: 35px;
+    height: -2px;
+}
